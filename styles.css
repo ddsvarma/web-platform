@@ -1,0 +1,34 @@
+.side-header {
+  display: block;
+  background-color: #003d73;
+  color: #fafdfc;
+}
+.align-right {
+  direction: rtl;
+}
+
+.progress {
+  background-color: #00315c;
+}
+
+.sub-heading {
+  background-color: #00315c;
+}
+
+.progress .excellent {
+  width: 100%;
+  background-color: #fafdfc;
+}
+
+.progress .very-good {
+  width: 80%;
+  background-color: #fafdfc;
+}
+
+li {
+  text-align: justify;
+}
+
+.summary {
+  margin-bottom: 2rem;
+}
